@@ -1,1 +1,1 @@
-#Here are the content and notebooks of the Error Mitigation team
+# Here is the content and notebooks of the Error Mitigation team
