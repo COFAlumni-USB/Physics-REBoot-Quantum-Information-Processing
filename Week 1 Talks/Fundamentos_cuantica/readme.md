@@ -1,1 +1,2 @@
-Folder Block 1: quantum foundations
+Block 1: quantum foundations
+by Hermann Albrecht 
