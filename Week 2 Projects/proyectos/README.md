@@ -1,1 +1,1 @@
-# Here are the different content submitted by the participants
+# Here are the submitted projects by the participants
